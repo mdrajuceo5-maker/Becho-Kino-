@@ -1,0 +1,159 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User profile in BechoKino",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "phoneNumber": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "role": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id"]
+    },
+    "Ad": {
+      "title": "Ad",
+      "description": "Classified advertisement",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "category": { "type": "string" },
+        "condition": { "type": "string" },
+        "price": { "type": "number" },
+        "isNegotiable": { "type": "boolean" },
+        "division": { "type": "string" },
+        "district": { "type": "string" },
+        "upazila": { "type": "string" },
+        "description": { "type": "string" },
+        "images": { "type": "array" },
+        "phone": { "type": "string" },
+        "sellerName": { "type": "string" },
+        "userId": { "type": "string" },
+        "deletePin": { "type": "string" },
+        "views": { "type": "number" },
+        "model": { "type": "string" },
+        "postedAt": { "type": "string" },
+        "timestamp": { "type": "number" }
+      },
+      "required": ["title", "category", "price", "division", "district", "upazila", "phone", "sellerName"]
+    },
+    "Message": {
+      "title": "Message",
+      "description": "Chat message between buyers and sellers",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "adId": { "type": "string" },
+        "senderId": { "type": "string" },
+        "senderName": { "type": "string" },
+        "text": { "type": "string" },
+        "image": { "type": "string" },
+        "timestamp": { "type": "number" },
+        "createdAt": { "type": "string" },
+        "isSeller": { "type": "boolean" }
+      },
+      "required": ["adId", "senderName"]
+    },
+    "Setting": {
+      "title": "Setting",
+      "description": "Site global configuration and dynamic logo",
+      "type": "object",
+      "properties": {
+        "siteName": { "type": "string" },
+        "siteTagline": { "type": "string" },
+        "bannerSubtitle": { "type": "string" },
+        "announcementText": { "type": "string" },
+        "logoUrl": { "type": "string" },
+        "seoDescription": { "type": "string" },
+        "updatedAt": { "type": "number" }
+      }
+    },
+    "Transaction": {
+      "title": "Transaction",
+      "description": "Payment transactions for boosted and featured packages",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "adId": { "type": "string" },
+        "adTitle": { "type": "string" },
+        "userId": { "type": "string" },
+        "packageId": { "type": "string" },
+        "packageName": { "type": "string" },
+        "amount": { "type": "number" },
+        "paymentMethod": { "type": "string" },
+        "trxId": { "type": "string" },
+        "customerPhone": { "type": "string" },
+        "status": { "type": "string" },
+        "createdAt": { "type": "string" }
+      }
+    },
+    "Report": {
+      "title": "Report",
+      "description": "Abuse and scam complaint reports",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "reporterId": { "type": "string" },
+        "reporterName": { "type": "string" },
+        "reportedUserId": { "type": "string" },
+        "reportedUserName": { "type": "string" },
+        "adId": { "type": "string" },
+        "adTitle": { "type": "string" },
+        "reason": { "type": "string" },
+        "details": { "type": "string" },
+        "status": { "type": "string" },
+        "createdAt": { "type": "string" }
+      }
+    },
+    "PendingPayment": {
+      "title": "PendingPayment",
+      "description": "Real-time pending payment verification requests",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "gateway": { "type": "string" },
+        "amount": { "type": "number" },
+        "transactionId": { "type": "string" },
+        "status": { "type": "string" },
+        "adId": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["userId", "gateway", "amount", "transactionId", "status"]
+    }
+  },
+  "firestore": {
+    "users": {
+      "entity": "User",
+      "description": "User profiles"
+    },
+    "ads": {
+      "entity": "Ad",
+      "description": "Public classified advertisements"
+    },
+    "messages": {
+      "entity": "Message",
+      "description": "Chat messages on ads"
+    },
+    "settings": {
+      "entity": "Setting",
+      "description": "Global website settings"
+    },
+    "transactions": {
+      "entity": "Transaction",
+      "description": "Payment transactions"
+    },
+    "pending_payments": {
+      "entity": "PendingPayment",
+      "description": "Real-time payment verification queue"
+    },
+    "reports": {
+      "entity": "Report",
+      "description": "Complaint and abuse reports"
+    }
+  }
+}

@@ -1,0 +1,933 @@
+[
+  {
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "districts": [
+      {
+        "district": "Dhaka",
+        "districtBn": "ঢাকা",
+        "upazilas": [
+          { "en": "Dhamrai", "bn": "ধামরাই" },
+          { "en": "Dohar", "bn": "দোহার" },
+          { "en": "Keraniganj", "bn": "কেরানীগঞ্জ" },
+          { "en": "Nawabganj", "bn": "নবাবগঞ্জ" },
+          { "en": "Savar", "bn": "সাভার" }
+        ]
+      },
+      {
+        "district": "Faridpur",
+        "districtBn": "ফরিদপুর",
+        "upazilas": [
+          { "en": "Alfadanga", "bn": "আলফাডাঙ্গা" },
+          { "en": "Bhanga", "bn": "ভাঙ্গা" },
+          { "en": "Boalmari", "bn": "বোয়ালমারী" },
+          { "en": "Charbhadrasan", "bn": "চরভদ্রাসন" },
+          { "en": "Faridpur Sadar", "bn": "ফরিদপুর সদর" },
+          { "en": "Madhukhali", "bn": "মধুখালী" },
+          { "en": "Nagarkanda", "bn": "নগরকান্দা" },
+          { "en": "Sadarpur", "bn": "সদরপুর" },
+          { "en": "Saltha", "bn": "সালথা" }
+        ]
+      },
+      {
+        "district": "Gazipur",
+        "districtBn": "গাজীপুর",
+        "upazilas": [
+          { "en": "Gazipur Sadar", "bn": "গাজীপুর সদর" },
+          { "en": "Kaliakair", "bn": "কালিয়াকৈর" },
+          { "en": "Kaliganj", "bn": "কালীগঞ্জ" },
+          { "en": "Kapasia", "bn": "কাপাসিয়া" },
+          { "en": "Sreepur", "bn": "শ্রীপুর" }
+        ]
+      },
+      {
+        "district": "Gopalganj",
+        "districtBn": "গোপালগঞ্জ",
+        "upazilas": [
+          { "en": "Gopalganj Sadar", "bn": "গোপালগঞ্জ সদর" },
+          { "en": "Kashiani", "bn": "কাশিয়ানী" },
+          { "en": "Kotalipara", "bn": "কোটালীপাড়া" },
+          { "en": "Muksudpur", "bn": "মুকসুদপুর" },
+          { "en": "Tungipara", "bn": "টুঙ্গিপাড়া" }
+        ]
+      },
+      {
+        "district": "Kishoreganj",
+        "districtBn": "কিশোরগঞ্জ",
+        "upazilas": [
+          { "en": "Austagram", "bn": "অষ্টগ্রাম" },
+          { "en": "Bajitpur", "bn": "বাজিতপুর" },
+          { "en": "Bhairab", "bn": "ভৈরব" },
+          { "en": "Hossainpur", "bn": "হোসেনপুর" },
+          { "en": "Itna", "bn": "ইটনা" },
+          { "en": "Karimganj", "bn": "করিমগঞ্জ" },
+          { "en": "Katiadi", "bn": "কটিয়াদী" },
+          { "en": "Kishoreganj Sadar", "bn": "কিশোরগঞ্জ সদর" },
+          { "en": "Kuliarchar", "bn": "কুলিয়ারচর" },
+          { "en": "Mithamain", "bn": "মিঠামইন" },
+          { "en": "Nikli", "bn": "নিকলী" },
+          { "en": "Pakundia", "bn": "পাকুন্দিয়া" },
+          { "en": "Tarail", "bn": "তাড়াইল" }
+        ]
+      },
+      {
+        "district": "Madaripur",
+        "districtBn": "মাদারীপুর",
+        "upazilas": [
+          { "en": "Kalkini", "bn": "কালকিনি" },
+          { "en": "Madaripur Sadar", "bn": "মাদারীপুর সদর" },
+          { "en": "Rajoir", "bn": "রাজৈর" },
+          { "en": "Shibchar", "bn": "শিবচর" },
+          { "en": "Dasar", "bn": "ডাসার" }
+        ]
+      },
+      {
+        "district": "Manikganj",
+        "districtBn": "মানিকগঞ্জ",
+        "upazilas": [
+          { "en": "Daulatpur", "bn": "দৌলতপুর" },
+          { "en": "Ghior", "bn": "ঘিওর" },
+          { "en": "Harirampur", "bn": "হরিরামপুর" },
+          { "en": "Manikganj Sadar", "bn": "মানিকগঞ্জ সদর" },
+          { "en": "Saturia", "bn": "সাটুরিয়া" },
+          { "en": "Shibaloy", "bn": "শিবালয়" },
+          { "en": "Singair", "bn": "সিংগাইর" }
+        ]
+      },
+      {
+        "district": "Munshiganj",
+        "districtBn": "মুন্সীগঞ্জ",
+        "upazilas": [
+          { "en": "Gazaria", "bn": "গজারিয়া" },
+          { "en": "Louhajong", "bn": "লৌহজং" },
+          { "en": "Munshiganj Sadar", "bn": "মুন্সীগঞ্জ সদর" },
+          { "en": "Sirajdikhan", "bn": "সিরাজদিখান" },
+          { "en": "Srinagar", "bn": "শ্রীনগর" },
+          { "en": "Tongibari", "bn": "টংগিবাড়ী" }
+        ]
+      },
+      {
+        "district": "Narayanganj",
+        "districtBn": "নারায়ণগঞ্জ",
+        "upazilas": [
+          { "en": "Araihazar", "bn": "আড়াইহাজার" },
+          { "en": "Sonargaon", "bn": "সোনারগাঁ" },
+          { "en": "Narayanganj Sadar", "bn": "নারায়ণগঞ্জ সদর" },
+          { "en": "Rupganj", "bn": "রূপগঞ্জ" },
+          { "en": "Bandar", "bn": "বন্দর" }
+        ]
+      },
+      {
+        "district": "Narsingdi",
+        "districtBn": "নরসিংদী",
+        "upazilas": [
+          { "en": "Belabo", "bn": "বেলাবো" },
+          { "en": "Monohardi", "bn": "মনোহরদী" },
+          { "en": "Narsingdi Sadar", "bn": "নরসিংদী সদর" },
+          { "en": "Palash", "bn": "পলাশ" },
+          { "en": "Raipura", "bn": "রায়পুরা" },
+          { "en": "Shibpur", "bn": "শিবপুর" }
+        ]
+      },
+      {
+        "district": "Rajbari",
+        "districtBn": "রাজবাড়ী",
+        "upazilas": [
+          { "en": "Baliakandi", "bn": "বালিয়াকান্দি" },
+          { "en": "Goalanda", "bn": "গোয়ালন্দ" },
+          { "en": "Kalukhali", "bn": "কালুখালী" },
+          { "en": "Pangsha", "bn": "পাংশা" },
+          { "en": "Rajbari Sadar", "bn": "রাজবাড়ী সদর" }
+        ]
+      },
+      {
+        "district": "Shariatpur",
+        "districtBn": "শরীয়তপুর",
+        "upazilas": [
+          { "en": "Bhedarganj", "bn": "ভেদরগঞ্জ" },
+          { "en": "Damudya", "bn": "ডামুড্যা" },
+          { "en": "Gosairhat", "bn": "গোসাইরহাট" },
+          { "en": "Naria", "bn": "নড়িয়া" },
+          { "en": "Shariatpur Sadar", "bn": "শরিয়তপুর সদর" },
+          { "en": "Zajira", "bn": "জাজিরা" }
+        ]
+      },
+      {
+        "district": "Tangail",
+        "districtBn": "টাঙ্গাইল",
+        "upazilas": [
+          { "en": "Basail", "bn": "বাসাইল" },
+          { "en": "Bhuapur", "bn": "ভূঞাপুর" },
+          { "en": "Delduar", "bn": "দেলদুয়ার" },
+          { "en": "Dhanbari", "bn": "ধনবাড়ী" },
+          { "en": "Ghatail", "bn": "ঘাটাইল" },
+          { "en": "Gopalpur", "bn": "গোপালপুর" },
+          { "en": "Kalihati", "bn": "কালিহাতী" },
+          { "en": "Madhupur", "bn": "মধুপুর" },
+          { "en": "Mirzapur", "bn": "মির্জাপুর" },
+          { "en": "Nagarpur", "bn": "নাগরপুর" },
+          { "en": "Sakhipur", "bn": "সখিপুর" },
+          { "en": "Tangail Sadar", "bn": "টাঙ্গাইল সদর" }
+        ]
+      }
+    ]
+  },
+  {
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "districts": [
+      {
+        "district": "Bagerhat",
+        "districtBn": "বাগেরহাট",
+        "upazilas": [
+          { "en": "Chitalmari", "bn": "চিতলমারী" },
+          { "en": "Fakirhat", "bn": "ফকিরহাট" },
+          { "en": "Kachua", "bn": "কচুয়া" },
+          { "en": "Mollahat", "bn": "মোল্লাহাট" },
+          { "en": "Mongla", "bn": "মোংলা" },
+          { "en": "Morrelganj", "bn": "মোরেলগঞ্জ" },
+          { "en": "Rampal", "bn": "রামপাল" },
+          { "en": "Sarankhola", "bn": "শরণখোলা" },
+          { "en": "Bagerhat Sadar", "bn": "বাগেরহাট সদর" }
+        ]
+      },
+      {
+        "district": "Chuadanga",
+        "districtBn": "চুয়াডাঙ্গা",
+        "upazilas": [
+          { "en": "Alamdanga", "bn": "আলমডাঙ্গা" },
+          { "en": "Chuadanga Sadar", "bn": "চুয়াডাঙ্গা সদর" },
+          { "en": "Damurhuda", "bn": "দামুড়হুদা" },
+          { "en": "Jibannagar", "bn": "জীবননগর" }
+        ]
+      },
+      {
+        "district": "Jashore",
+        "districtBn": "যশোর",
+        "upazilas": [
+          { "en": "Abhaynagar", "bn": "অভয়নগর" },
+          { "en": "Bagherpara", "bn": "বাঘারপাড়া" },
+          { "en": "Chougachha", "bn": "চৌগাছা" },
+          { "en": "Jhikargachha", "bn": "ঝিকরগাছা" },
+          { "en": "Keshabpur", "bn": "কেশবপুর" },
+          { "en": "Jashore Sadar", "bn": "যশোর সদর" },
+          { "en": "Manirampur", "bn": "মণিরামপুর" },
+          { "en": "Sharsha", "bn": "শার্শা" }
+        ]
+      },
+      {
+        "district": "Jhenaidah",
+        "districtBn": "ঝিনাইদহ",
+        "upazilas": [
+          { "en": "Harinakundu", "bn": "হরিণাকুন্ডু" },
+          { "en": "Jhenaidah Sadar", "bn": "ঝিনাইদহ সদর" },
+          { "en": "Kaliganj", "bn": "কালীগঞ্জ" },
+          { "en": "Kotchandpur", "bn": "কোটচাঁদপুর" },
+          { "en": "Maheshpur", "bn": "মহেশপুর" },
+          { "en": "Shailkupa", "bn": "শৈলকুপা" }
+        ]
+      },
+      {
+        "district": "Khulna",
+        "districtBn": "খুলনা",
+        "upazilas": [
+          { "en": "Batiaghata", "bn": "বটিয়াঘাটা" },
+          { "en": "Dacope", "bn": "দাকোপ" },
+          { "en": "Dumuria", "bn": "ডুমুরিয়া" },
+          { "en": "Koyra", "bn": "কয়রা" },
+          { "en": "Paikgachha", "bn": "পাইকগাছা" },
+          { "en": "Phultala", "bn": "ফুলতলা" },
+          { "en": "Rupsa", "bn": "রূপসা" },
+          { "en": "Terokhada", "bn": "তেরখাদা" },
+          { "en": "Dighalia", "bn": "দিঘলিয়া" }
+        ]
+      },
+      {
+        "district": "Kushtia",
+        "districtBn": "কুষ্টিয়া",
+        "upazilas": [
+          { "en": "Bheramara", "bn": "ভেড়ামারা" },
+          { "en": "Daulatpur", "bn": "দৌলতপুর" },
+          { "en": "Khoksa", "bn": "খোকসা" },
+          { "en": "Kumarkhali", "bn": "কুমারখালী" },
+          { "en": "Kushtia Sadar", "bn": "কুষ্টিয়া সদর" },
+          { "en": "Mirpur", "bn": "মিরপুর" }
+        ]
+      },
+      {
+        "district": "Magura",
+        "districtBn": "মাগুরা",
+        "upazilas": [
+          { "en": "Magura Sadar", "bn": "মাগুরা সদর" },
+          { "en": "Mohammadpur", "bn": "মহম্মদপুর" },
+          { "en": "Shalikha", "bn": "শালিখা" },
+          { "en": "Sreepur", "bn": "শ্রীপুর" }
+        ]
+      },
+      {
+        "district": "Meherpur",
+        "districtBn": "মেহেরপুর",
+        "upazilas": [
+          { "en": "Gangni", "bn": "গাংনী" },
+          { "en": "Mujibnagar", "bn": "মুজিবনগর" },
+          { "en": "Meherpur Sadar", "bn": "মেহেরপুর সদর" }
+        ]
+      },
+      {
+        "district": "Narail",
+        "districtBn": "নড়াইল",
+        "upazilas": [
+          { "en": "Kalia", "bn": "কালিয়া" },
+          { "en": "Lohagara", "bn": "লোহাগড়া" },
+          { "en": "Narail Sadar", "bn": "নড়াইল সদর" }
+        ]
+      },
+      {
+        "district": "Satkhira",
+        "districtBn": "সাতক্ষীরা",
+        "upazilas": [
+          { "en": "Assasuni", "bn": "আশাশুনি" },
+          { "en": "Debhata", "bn": "দেবহাটা" },
+          { "en": "Kalaroa", "bn": "কলারোয়া" },
+          { "en": "Kaliganj", "bn": "কালীগঞ্জ" },
+          { "en": "Satkhira Sadar", "bn": "সাতক্ষীরা সদর" },
+          { "en": "Shyamnagar", "bn": "শ্যামনগর" },
+          { "en": "Tala", "bn": "তালা" }
+        ]
+      }
+    ]
+  },
+  {
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "districts": [
+      {
+        "district": "Bandarban",
+        "districtBn": "বান্দরবান",
+        "upazilas": [
+          { "en": "Alikadam", "bn": "আলীকদম" },
+          { "en": "Bandarban Sadar", "bn": "বান্দরবান সদর" },
+          { "en": "Lama", "bn": "লামা" },
+          { "en": "Naikhongchhari", "bn": "নাইক্ষ্যংছড়ি" },
+          { "en": "Rowangchhari", "bn": "রোয়াংছড়ি" },
+          { "en": "Ruma", "bn": "রুমা" },
+          { "en": "Thanchi", "bn": "থানচি" }
+        ]
+      },
+      {
+        "district": "Brahmanbaria",
+        "districtBn": "ব্রাহ্মণবাড়িয়া",
+        "upazilas": [
+          { "en": "Akhaura", "bn": "আখাউড়া" },
+          { "en": "Bancharampur", "bn": "বাঞ্ছারামপুর" },
+          { "en": "Bijoynagar", "bn": "বিজয়নগর" },
+          { "en": "Brahmanbaria Sadar", "bn": "ব্রাহ্মণবাড়িয়া সদর" },
+          { "en": "Ashuganj", "bn": "আশুগঞ্জ" },
+          { "en": "Kasba", "bn": "কসবা" },
+          { "en": "Nabinagar", "bn": "নবীনগর" },
+          { "en": "Nasirnagar", "bn": "নাসিরনগর" },
+          { "en": "Sarail", "bn": "সরাইল" }
+        ]
+      },
+      {
+        "district": "Chandpur",
+        "districtBn": "চাঁদপুর",
+        "upazilas": [
+          { "en": "Chandpur Sadar", "bn": "চাঁদপুর সদর" },
+          { "en": "Faridganj", "bn": "ফরিদগঞ্জ" },
+          { "en": "Haimchar", "bn": "হাইমচর" },
+          { "en": "Hajiganj", "bn": "হাজীগঞ্জ" },
+          { "en": "Kachua", "bn": "কচুয়া" },
+          { "en": "Matlab Dakshin", "bn": "মতলব দক্ষিণ" },
+          { "en": "Matlab Uttar", "bn": "মতলব উত্তর" },
+          { "en": "Shahrasti", "bn": "শাহরাস্তি" }
+        ]
+      },
+      {
+        "district": "Chattogram",
+        "districtBn": "চট্টগ্রাম",
+        "upazilas": [
+          { "en": "Anwara", "bn": "আনোয়ারা" },
+          { "en": "Banshkhali", "bn": "বাঁশখালী" },
+          { "en": "Boalkhali", "bn": "বোয়ালখালী" },
+          { "en": "Chandanaish", "bn": "চন্দনাইশ" },
+          { "en": "Fatikchhari", "bn": "ফটিকছড়ি" },
+          { "en": "Hathazari", "bn": "হাটহাজারী" },
+          { "en": "Lohagara", "bn": "লোহাগাড়া" },
+          { "en": "Mirsharai", "bn": "মীরসরাই" },
+          { "en": "Patiya", "bn": "পটিয়া" },
+          { "en": "Rangunia", "bn": "রাঙ্গুনিয়া" },
+          { "en": "Raozan", "bn": "রাউজান" },
+          { "en": "Sandwip", "bn": "সন্দ্বীপ" },
+          { "en": "Satkania", "bn": "সাতকানিয়া" },
+          { "en": "Sitakunda", "bn": "সীতাকুন্ড" },
+          { "en": "Karnaphuli", "bn": "কর্ণফুলী" }
+        ]
+      },
+      {
+        "district": "Cumilla",
+        "districtBn": "কুমিল্লা",
+        "upazilas": [
+          { "en": "Barura", "bn": "বরুড়া" },
+          { "en": "Brahmanpara", "bn": "ব্রাহ্মণপাড়া" },
+          { "en": "Burichang", "bn": "বুড়িচং" },
+          { "en": "Chandina", "bn": "চান্দিনা" },
+          { "en": "Chauddagram", "bn": "চৌদ্দগ্রাম" },
+          { "en": "Adarsha Sadar", "bn": "আদর্শ সদর" },
+          { "en": "Sadar Dakshin", "bn": "সদর দক্ষিণ" },
+          { "en": "Daudkandi", "bn": "দাউদকান্দি" },
+          { "en": "Debidwar", "bn": "দেবিদ্বার" },
+          { "en": "Homna", "bn": "হোমনা" },
+          { "en": "Laksam", "bn": "লাকসাম" },
+          { "en": "Monohorgonj", "bn": "মনোহরগঞ্জ" },
+          { "en": "Meghna", "bn": "মেঘনা" },
+          { "en": "Muradnagar", "bn": "মুরাদনগর" },
+          { "en": "Nangalkot", "bn": "নাঙ্গলকোট" },
+          { "en": "Titas", "bn": "তিতাস" },
+          { "en": "Lalmai", "bn": "লালমাই" }
+        ]
+      },
+      {
+        "district": "Cox's Bazar",
+        "districtBn": "কক্সবাজার",
+        "upazilas": [
+          { "en": "Chakaria", "bn": "চকরিয়া" },
+          { "en": "Cox's Bazar Sadar", "bn": "কক্সবাজার সদর" },
+          { "en": "Kutubdia", "bn": "কুতুবদিয়া" },
+          { "en": "Moheshkhali", "bn": "মহেশখালী" },
+          { "en": "Pekua", "bn": "পেকুয়া" },
+          { "en": "Ramu", "bn": "রামু" },
+          { "en": "Teknaf", "bn": "টেকনাফ" },
+          { "en": "Ukhiya", "bn": "উখিয়া" },
+          { "en": "Eidgaon", "bn": "ঈদগাঁও" }
+        ]
+      },
+      {
+        "district": "Feni",
+        "districtBn": "ফেনী",
+        "upazilas": [
+          { "en": "Chhagalnaiya", "bn": "ছাগলনাইয়া" },
+          { "en": "Daganbhuiyan", "bn": "দাগনভূঞা" },
+          { "en": "Feni Sadar", "bn": "ফেনী সদর" },
+          { "en": "Fulgazi", "bn": "ফুলগাজী" },
+          { "en": "Parshuram", "bn": "পরশুরাম" },
+          { "en": "Sonagazi", "bn": "সোনাগাজী" }
+        ]
+      },
+      {
+        "district": "Khagrachhari",
+        "districtBn": "খাগড়াছড়ি",
+        "upazilas": [
+          { "en": "Dighinala", "bn": "দীঘিনালা" },
+          { "en": "Manikchhari", "bn": "মানিকছড়ি" },
+          { "en": "Khagrachhari Sadar", "bn": "খাগড়াছড়ি সদর" },
+          { "en": "Lakshmichhari", "bn": "লক্ষীছড়ি" },
+          { "en": "Mahalchhari", "bn": "মহালছড়ি" },
+          { "en": "Matiranga", "bn": "মাটিরাঙ্গা" },
+          { "en": "Panchhari", "bn": "পানছড়ি" },
+          { "en": "Ramgarh", "bn": "রামগড়" },
+          { "en": "Guimara", "bn": "গুইমারা" }
+        ]
+      },
+      {
+        "district": "Lakshmipur",
+        "districtBn": "লক্ষ্মীপুর",
+        "upazilas": [
+          { "en": "Kamalnagar", "bn": "কমলনগর" },
+          { "en": "Lakshmipur Sadar", "bn": "লক্ষ্মীপুর সদর" },
+          { "en": "Raipur", "bn": "রায়পুর" },
+          { "en": "Ramganj", "bn": "রামগঞ্জ" },
+          { "en": "Ramgati", "bn": "রামগতি" },
+          { "en": "Chandraganj", "bn": "চন্দ্রগঞ্জ" }
+        ]
+      },
+      {
+        "district": "Noakhali",
+        "districtBn": "নোয়াখালী",
+        "upazilas": [
+          { "en": "Begumganj", "bn": "বেগমগঞ্জ" },
+          { "en": "Chatkhil", "bn": "চাটখিল" },
+          { "en": "Companiganj", "bn": "কোম্পানীগঞ্জ" },
+          { "en": "Hatiya", "bn": "হাতিয়া" },
+          { "en": "Senbagh", "bn": "সেনবাগ" },
+          { "en": "Sonaimuri", "bn": "সোনাইমুড়ী" },
+          { "en": "Subarnachar", "bn": "সুবর্ণচর" },
+          { "en": "Noakhali Sadar", "bn": "নোয়াখালী সদর" },
+          { "en": "Kabirhat", "bn": "কবিরহাট" }
+        ]
+      },
+      {
+        "district": "Rangamati",
+        "districtBn": "রাঙ্গামাটি",
+        "upazilas": [
+          { "en": "Baghaichhari", "bn": "বাঘাইছড়ি" },
+          { "en": "Barkal", "bn": "বরকল" },
+          { "en": "Kawkhali", "bn": "কাউখালী" },
+          { "en": "Kaptai", "bn": "কাপ্তাই" },
+          { "en": "Juraichhari", "bn": "জুরাছড়ি" },
+          { "en": "Langadu", "bn": "লংগদু" },
+          { "en": "Naniarchar", "bn": "নানিয়ারচর" },
+          { "en": "Rangamati Sadar", "bn": "রাঙ্গামাটি সদর" },
+          { "en": "Rajasthali", "bn": "রাজস্থলী" },
+          { "en": "Belaichhari", "bn": "বিলাইছড়ি" }
+        ]
+      }
+    ]
+  },
+  {
+    "division": "Rajshahi",
+    "divisionBn": "রাজশাহী",
+    "districts": [
+      {
+        "district": "Bogra",
+        "districtBn": "বগুড়া",
+        "upazilas": [
+          { "en": "Adamdighi", "bn": "আদমদিঘি" },
+          { "en": "Bogra Sadar", "bn": "বগুড়া সদর" },
+          { "en": "Dhunat", "bn": "ধুনট" },
+          { "en": "Dupchanchia", "bn": "দুপচাঁচিয়া" },
+          { "en": "Gabtali", "bn": "গাবতলী" },
+          { "en": "Kahaloo", "bn": "কাহালু" },
+          { "en": "Nandigram", "bn": "নন্দিগ্রাম" },
+          { "en": "Sariakandi", "bn": "সারিয়াকান্দি" },
+          { "en": "Shajahanpur", "bn": "শাজাহানপুর" },
+          { "en": "Sherpur", "bn": "শেরপুর" },
+          { "en": "Shibganj", "bn": "শিবগঞ্জ" },
+          { "en": "Sonatala", "bn": "সোনাতলা" },
+          { "en": "Mokamatola", "bn": "মোকামতলা" }
+        ]
+      },
+      {
+        "district": "Joypurhat",
+        "districtBn": "জয়পুরহাট",
+        "upazilas": [
+          { "en": "Akkelpur", "bn": "আক্কেলপুর" },
+          { "en": "Joypurhat Sadar", "bn": "জয়পুরহাট সদর" },
+          { "en": "Kalai", "bn": "কালাই" },
+          { "en": "Panchbibi", "bn": "পাঁচবিবি" },
+          { "en": "Khetlal", "bn": "ক্ষেতলাল" }
+        ]
+      },
+      {
+        "district": "Naogaon",
+        "districtBn": "নওগাঁ",
+        "upazilas": [
+          { "en": "Atrai", "bn": "আত্রাই" },
+          { "en": "Dhamoirhat", "bn": "ধামইরহাট" },
+          { "en": "Manda", "bn": "মান্দা" },
+          { "en": "Mahadebpur", "bn": "মহাদেবপুর" },
+          { "en": "Naogaon Sadar", "bn": "নওগাঁ সদর" },
+          { "en": "Niamatpur", "bn": "নিয়ামতপুর" },
+          { "en": "Patnitala", "bn": "পত্নীতলা" },
+          { "en": "Raninagar", "bn": "রাণীনগর" },
+          { "en": "Sapahar", "bn": "সাপাহার" },
+          { "en": "Badalgachhi", "bn": "বদলগাছী" },
+          { "en": "Porsha", "bn": "পোরশা" }
+        ]
+      },
+      {
+        "district": "Natore",
+        "districtBn": "নাটোর",
+        "upazilas": [
+          { "en": "Bagatipara", "bn": "বাগাতিপাড়া" },
+          { "en": "Baraigram", "bn": "বড়াইগ্রাম" },
+          { "en": "Gurudaspur", "bn": "গুরুদাসপুর" },
+          { "en": "Lalpur", "bn": "লালপুর" },
+          { "en": "Natore Sadar", "bn": "নাটোর সদর" },
+          { "en": "Singra", "bn": "সিংড়া" },
+          { "en": "Naldanga", "bn": "নলডাঙ্গা" }
+        ]
+      },
+      {
+        "district": "Chapainawabganj",
+        "districtBn": "চাঁপাইনবাবগঞ্জ",
+        "upazilas": [
+          { "en": "Shibganj", "bn": "শিবগঞ্জ" },
+          { "en": "Bholahat", "bn": "ভোলাহাট" },
+          { "en": "Gomastapur", "bn": "গোমস্তাপুর" },
+          { "en": "Nachole", "bn": "নাচোল" },
+          { "en": "Chapainawabganj Sadar", "bn": "চাঁপাইনবাবগঞ্জ সদর" }
+        ]
+      },
+      {
+        "district": "Pabna",
+        "districtBn": "পাবনা",
+        "upazilas": [
+          { "en": "Atgharia", "bn": "আটঘরিয়া" },
+          { "en": "Bera", "bn": "বেড়া" },
+          { "en": "Bhangura", "bn": "ভাঙ্গুড়া" },
+          { "en": "Chatmohar", "bn": "চাটমোহর" },
+          { "en": "Faridpur", "bn": "ফরিদপুর" },
+          { "en": "Ishwardi", "bn": "ঈশ্বরদী" },
+          { "en": "Pabna Sadar", "bn": "পাবনা সদর" },
+          { "en": "Santhia", "bn": "সাঁথিয়া" },
+          { "en": "Sujanagar", "bn": "সুজানগর" }
+        ]
+      },
+      {
+        "district": "Rajshahi",
+        "districtBn": "রাজশাহী",
+        "upazilas": [
+          { "en": "Bagha", "bn": "বাঘা" },
+          { "en": "Bagmara", "bn": "বাগমারা" },
+          { "en": "Charghat", "bn": "চারঘাট" },
+          { "en": "Durgapur", "bn": "দুর্গাপুর" },
+          { "en": "Godagari", "bn": "গোদাগাড়ী" },
+          { "en": "Mohanpur", "bn": "মোহনপুর" },
+          { "en": "Paba", "bn": "পবা" },
+          { "en": "Puthia", "bn": "পুঠিয়া" },
+          { "en": "Tanore", "bn": "তানোর" }
+        ]
+      },
+      {
+        "district": "Sirajganj",
+        "districtBn": "সিরাজগঞ্জ",
+        "upazilas": [
+          { "en": "Belkuchi", "bn": "বেলকুচি" },
+          { "en": "Chauhali", "bn": "চৌহালি" },
+          { "en": "Kamarkhanda", "bn": "কামারখন্দ" },
+          { "en": "Kazipur", "bn": "কাজীপুর" },
+          { "en": "Raiganj", "bn": "রায়গঞ্জ" },
+          { "en": "Shahjadpur", "bn": "শাহজাদপুর" },
+          { "en": "Sirajganj Sadar", "bn": "সিরাজগঞ্জ সদর" },
+          { "en": "Tarash", "bn": "তাড়াশ" },
+          { "en": "Ullapara", "bn": "উল্লাপাড়া" }
+        ]
+      }
+    ]
+  },
+  {
+    "division": "Sylhet",
+    "divisionBn": "সিলেট",
+    "districts": [
+      {
+        "district": "Habiganj",
+        "districtBn": "হবিগঞ্জ",
+        "upazilas": [
+          { "en": "Ajmiriganj", "bn": "আজমিরীগঞ্জ" },
+          { "en": "Bahubal", "bn": "বাহুবল" },
+          { "en": "Baniachong", "bn": "বানিয়াচং" },
+          { "en": "Chunarughat", "bn": "চুনারুঘাট" },
+          { "en": "Habiganj Sadar", "bn": "হবিগঞ্জ সদর" },
+          { "en": "Lakhai", "bn": "লাখাই" },
+          { "en": "Madhabpur", "bn": "মাধবপুর" },
+          { "en": "Nabiganj", "bn": "নবীগঞ্জ" },
+          { "en": "Shayestaganj", "bn": "শায়েস্তাগঞ্জ" }
+        ]
+      },
+      {
+        "district": "Moulvibazar",
+        "districtBn": "মৌলভীবাজার",
+        "upazilas": [
+          { "en": "Barlekha", "bn": "বড়লেখা" },
+          { "en": "Juri", "bn": "জুড়ী" },
+          { "en": "Kamalganj", "bn": "কমলগঞ্জ" },
+          { "en": "Kulaura", "bn": "কুলাউড়া" },
+          { "en": "Moulvibazar Sadar", "bn": "মৌলভীবাজার সদর" },
+          { "en": "Rajnagar", "bn": "রাজনগর" },
+          { "en": "Sreemangal", "bn": "শ্রীমঙ্গল" }
+        ]
+      },
+      {
+        "district": "Sunamganj",
+        "districtBn": "সুনামগঞ্জ",
+        "upazilas": [
+          { "en": "Bishwamvarpur", "bn": "বিশ্বম্ভরপুর" },
+          { "en": "Chhatak", "bn": "ছাতক" },
+          { "en": "Derai", "bn": "দিরাই" },
+          { "en": "Dharampasha", "bn": "ধর্মপাশা" },
+          { "en": "Dowarabazar", "bn": "দোয়ারাবাজার" },
+          { "en": "Jagannathpur", "bn": "জগন্নাথপুর" },
+          { "en": "Jamalganj", "bn": "জামালগঞ্জ" },
+          { "en": "Sulla", "bn": "শাল্লা" },
+          { "en": "Sunamganj Sadar", "bn": "সুনামগঞ্জ সদর" },
+          { "en": "Tahirpur", "bn": "তাহিরপুর" },
+          { "en": "Shantiganj", "bn": "শান্তিগঞ্জ" },
+          { "en": "Madhyanagar", "bn": "মধ্যনগর" }
+        ]
+      },
+      {
+        "district": "Sylhet",
+        "districtBn": "সিলেট",
+        "upazilas": [
+          { "en": "Balaganj", "bn": "বালাগঞ্জ" },
+          { "en": "Beanibazar", "bn": "বিয়ানীবাজার" },
+          { "en": "Bishwanath", "bn": "বিশ্বনাথ" },
+          { "en": "Companiganj", "bn": "কোম্পানীগঞ্জ" },
+          { "en": "Dakshin Surma", "bn": "দক্ষিণ সুরমা" },
+          { "en": "Fenchuganj", "bn": "ফেঞ্চুগঞ্জ" },
+          { "en": "Golapganj", "bn": "গোলাপগঞ্জ" },
+          { "en": "Gowainghat", "bn": "গোয়াইনঘাট" },
+          { "en": "Jaintiapur", "bn": "জৈন্তাপুর" },
+          { "en": "Kanaighat", "bn": "কানাইঘাট" },
+          { "en": "Sylhet Sadar", "bn": "সিলেট সদর" },
+          { "en": "Zakiganj", "bn": "জকিগঞ্জ" },
+          { "en": "Osmani Nagar", "bn": "ওসমানী নগর" }
+        ]
+      }
+    ]
+  },
+  {
+    "division": "Rangpur",
+    "divisionBn": "রংপুর",
+    "districts": [
+      {
+        "district": "Dinajpur",
+        "districtBn": "দিনাজপুর",
+        "upazilas": [
+          { "en": "Birampur", "bn": "বিরামপুর" },
+          { "en": "Birganj", "bn": "বীরগঞ্জ" },
+          { "en": "Birol", "bn": "বিরল" },
+          { "en": "Bochaganj", "bn": "বোচাগঞ্জ" },
+          { "en": "Chirirbandar", "bn": "চিরিরবন্দর" },
+          { "en": "Phulbari", "bn": "ফুলবাড়ী" },
+          { "en": "Ghoraghat", "bn": "ঘোড়াঘাট" },
+          { "en": "Hakimpur", "bn": "হাকিমপুর" },
+          { "en": "Kaharol", "bn": "কাহারোল" },
+          { "en": "Khansama", "bn": "খানসামা" },
+          { "en": "Nawabganj", "bn": "নবাবগঞ্জ" },
+          { "en": "Parbatipur", "bn": "পার্বতীপুর" },
+          { "en": "Dinajpur Sadar", "bn": "দিনাজপুর সদর" }
+        ]
+      },
+      {
+        "district": "Gaibandha",
+        "districtBn": "গাইবান্ধা",
+        "upazilas": [
+          { "en": "Phulchhari", "bn": "ফুলছড়ি" },
+          { "en": "Gaibandha Sadar", "bn": "গাইবান্ধা সদর" },
+          { "en": "Gobindaganj", "bn": "গোবিন্দগঞ্জ" },
+          { "en": "Palashbari", "bn": "পলাশবাড়ী" },
+          { "en": "Sadullapur", "bn": "সাদুল্লাপুর" },
+          { "en": "Saghata", "bn": "সাঘাটা" },
+          { "en": "Sundarganj", "bn": "সুন্দরগঞ্জ" }
+        ]
+      },
+      {
+        "district": "Kurigram",
+        "districtBn": "কুড়িগ্রাম",
+        "upazilas": [
+          { "en": "Phulbari", "bn": "ফুলবাড়ী" },
+          { "en": "Bhurungamari", "bn": "ভূরুঙ্গামারী" },
+          { "en": "Char Rajibpur", "bn": "চর রাজিবপুর" },
+          { "en": "Chilmari", "bn": "চিলমারী" },
+          { "en": "Kurigram Sadar", "bn": "কুড়িগ্রাম সদর" },
+          { "en": "Nageshwari", "bn": "নাগেশ্বরী" },
+          { "en": "Rajarhat", "bn": "রাজারহাট" },
+          { "en": "Roumari", "bn": "রৌমারী" },
+          { "en": "Ulipur", "bn": "উলিপুর" }
+        ]
+      },
+      {
+        "district": "Lalmonirhat",
+        "districtBn": "লালমনিরহাট",
+        "upazilas": [
+          { "en": "Aditmari", "bn": "আদিতমারী" },
+          { "en": "Hatibandha", "bn": "হাতীবান্ধা" },
+          { "en": "Kaliganj", "bn": "কালীগঞ্জ" },
+          { "en": "Lalmonirhat Sadar", "bn": "লালমনিরহাট সদর" },
+          { "en": "Patgram", "bn": "পাটগ্রাম" }
+        ]
+      },
+      {
+        "district": "Nilphamari",
+        "districtBn": "নীলফামারী",
+        "upazilas": [
+          { "en": "Domar", "bn": "ডোমার" },
+          { "en": "Jaldhaka", "bn": "জলঢাকা" },
+          { "en": "Kishoreganj", "bn": "কিশোরগঞ্জ" },
+          { "en": "Nilphamari Sadar", "bn": "নীলফামারী সদর" },
+          { "en": "Saidpur", "bn": "সৈয়দপুর" },
+          { "en": "Dimla", "bn": "ডিমলা" }
+        ]
+      },
+      {
+        "district": "Panchagarh",
+        "districtBn": "পঞ্চগড়",
+        "upazilas": [
+          { "en": "Atwari", "bn": "আটোয়ারী" },
+          { "en": "Boda", "bn": "বোদা" },
+          { "en": "Debiganj", "bn": "দেবীগঞ্জ" },
+          { "en": "Panchagarh Sadar", "bn": "পঞ্চগড় সদর" },
+          { "en": "Tetulia", "bn": "তেঁতুলিয়া" }
+        ]
+      },
+      {
+        "district": "Rangpur",
+        "districtBn": "রংপুর",
+        "upazilas": [
+          { "en": "Badarganj", "bn": "বদরগঞ্জ" },
+          { "en": "Kaunia", "bn": "কাউনিয়া" },
+          { "en": "Rangpur Sadar", "bn": "রংপুর সদর" },
+          { "en": "Mithapukur", "bn": "মিঠাপুকুর" },
+          { "en": "Pirgachha", "bn": "পীরগাছা" },
+          { "en": "Pirganj", "bn": "পীরগঞ্জ" },
+          { "en": "Taraganj", "bn": "তারাগঞ্জ" },
+          { "en": "Gangachara", "bn": "গংগাচড়া" }
+        ]
+      },
+      {
+        "district": "Thakurgaon",
+        "districtBn": "ঠাকুরগাঁও",
+        "upazilas": [
+          { "en": "Pirganj", "bn": "পীরগঞ্জ" },
+          { "en": "Baliadangi", "bn": "বালিয়াডাঙ্গী" },
+          { "en": "Haripur", "bn": "হরিপুর" },
+          { "en": "Ranisankail", "bn": "রাণীশংকৈল" },
+          { "en": "Thakurgaon Sadar", "bn": "ঠাকুরগাঁও সদর" },
+          { "en": "Bhulli", "bn": "ভূল্লী" },
+          { "en": "Ruhia", "bn": "রুহিয়া" }
+        ]
+      }
+    ]
+  },
+  {
+    "division": "Mymensingh",
+    "divisionBn": "ময়মনসিংহ",
+    "districts": [
+      {
+        "district": "Jamalpur",
+        "districtBn": "জামালপুর",
+        "upazilas": [
+          { "en": "Baksiganj", "bn": "বকশীগঞ্জ" },
+          { "en": "Dewanganj", "bn": "দেওয়ানগঞ্জ" },
+          { "en": "Islampur", "bn": "ইসলামপুর" },
+          { "en": "Jamalpur Sadar", "bn": "জামালপুর সদর" },
+          { "en": "Madarganj", "bn": "মাদারগঞ্জ" },
+          { "en": "Melandaha", "bn": "মেলান্দহ" },
+          { "en": "Sarishabari", "bn": "সরিষাবাড়ী" }
+        ]
+      },
+      {
+        "district": "Mymensingh",
+        "districtBn": "ময়মনসিংহ",
+        "upazilas": [
+          { "en": "Bhaluka", "bn": "ভালুকা" },
+          { "en": "Dhobaura", "bn": "ধোবাউড়া" },
+          { "en": "Fulbaria", "bn": "ফুলবাড়ীয়া" },
+          { "en": "Gaffargaon", "bn": "গফরগাঁও" },
+          { "en": "Gauripur", "bn": "গৌরীপুর" },
+          { "en": "Haluaghat", "bn": "হালুয়াঘাট" },
+          { "en": "Ishwarganj", "bn": "ঈশ্বরগঞ্জ" },
+          { "en": "Mymensingh Sadar", "bn": "ময়মনসিংহ সদর" },
+          { "en": "Muktagachha", "bn": "মুক্তাগাছা" },
+          { "en": "Nandail", "bn": "নান্দাইল" },
+          { "en": "Phulpur", "bn": "ফুলপুর" },
+          { "en": "Tarakanda", "bn": "তারাকান্দা" },
+          { "en": "Trishal", "bn": "ত্রিশাল" }
+        ]
+      },
+      {
+        "district": "Netrokona",
+        "districtBn": "নেত্রকোণা",
+        "upazilas": [
+          { "en": "Atpara", "bn": "আটপাড়া" },
+          { "en": "Barhatta", "bn": "বারহাট্টা" },
+          { "en": "Durgapur", "bn": "দুর্গাপুর" },
+          { "en": "Khaliajuri", "bn": "খালিয়াজুরী" },
+          { "en": "Kalmakanda", "bn": "কলমাকান্দা" },
+          { "en": "Kendua", "bn": "কেন্দুয়া" },
+          { "en": "Madan", "bn": "মদন" },
+          { "en": "Mohanganj", "bn": "মোহনগঞ্জ" },
+          { "en": "Netrokona Sadar", "bn": "নেত্রকোণা সদর" },
+          { "en": "Purbadhala", "bn": "পূর্বধলা" }
+        ]
+      },
+      {
+        "district": "Sherpur",
+        "districtBn": "শেরপুর",
+        "upazilas": [
+          { "en": "Jhenaigati", "bn": "ঝিনাইগাতী" },
+          { "en": "Nakla", "bn": "নকলা" },
+          { "en": "Nalitabari", "bn": "নালিতাবাড়ী" },
+          { "en": "Sherpur Sadar", "bn": "শেরপুর সদর" },
+          { "en": "Sreebardi", "bn": "শ্রীবরদী" }
+        ]
+      }
+    ]
+  },
+  {
+    "division": "Barishal",
+    "divisionBn": "বরিশাল",
+    "districts": [
+      {
+        "district": "Barguna",
+        "districtBn": "বরগুনা",
+        "upazilas": [
+          { "en": "Amtali", "bn": "আমতলী" },
+          { "en": "Bamna", "bn": "বামনা" },
+          { "en": "Barguna Sadar", "bn": "বরগুনা সদর" },
+          { "en": "Betagi", "bn": "বেতাগী" },
+          { "en": "Patharghata", "bn": "পাথরঘাটা" },
+          { "en": "Taltali", "bn": "তালতলী" }
+        ]
+      },
+      {
+        "district": "Barishal",
+        "districtBn": "বরিশাল",
+        "upazilas": [
+          { "en": "Agailjhara", "bn": "আগৈলঝাড়া" },
+          { "en": "Babuganj", "bn": "বাবুগঞ্জ" },
+          { "en": "Bakerganj", "bn": "বাকেরগঞ্জ" },
+          { "en": "Banaripara", "bn": "বানারীপাড়া" },
+          { "en": "Gournadi", "bn": "গৌরনদী" },
+          { "en": "Hizla", "bn": "হিজলা" },
+          { "en": "Barishal Sadar", "bn": "বরিশাল সদর" },
+          { "en": "Mehendiganj", "bn": "মেহেন্দিগঞ্জ" },
+          { "en": "Muladi", "bn": "মুলাদী" },
+          { "en": "Wazirpur", "bn": "উজিরপুর" }
+        ]
+      },
+      {
+        "district": "Bhola",
+        "districtBn": "ভোলা",
+        "upazilas": [
+          { "en": "Bhola Sadar", "bn": "ভোলা সদর" },
+          { "en": "Borhanuddin", "bn": "বোরহানউদ্দিন" },
+          { "en": "Daulatkhan", "bn": "দৌলতখান" },
+          { "en": "Lalmohan", "bn": "লালমোহন" },
+          { "en": "Monpura", "bn": "মনপুরা" },
+          { "en": "Tazumuddin", "bn": "তজুমদ্দিন" },
+          { "en": "Char Fasson", "bn": "চরফ্যাশন" }
+        ]
+      },
+      {
+        "district": "Jhalokati",
+        "districtBn": "ঝালকাঠি",
+        "upazilas": [
+          { "en": "Jhalokati Sadar", "bn": "ঝালকাঠি সদর" },
+          { "en": "Nalchity", "bn": "নলছিটি" },
+          { "en": "Kathalia", "bn": "কাঠালিয়া" },
+          { "en": "Rajapur", "bn": "রাজাপুর" }
+        ]
+      },
+      {
+        "district": "Patuakhali",
+        "districtBn": "পটুয়াখালী",
+        "upazilas": [
+          { "en": "Bauphal", "bn": "বাউফল" },
+          { "en": "Dashmina", "bn": "দশমিনা" },
+          { "en": "Dumki", "bn": "দুমকী" },
+          { "en": "Kalapara", "bn": "কলাপাড়া" },
+          { "en": "Mirzaganj", "bn": "মির্জাগঞ্জ" },
+          { "en": "Patuakhali Sadar", "bn": "পটুয়াখালী সদর" },
+          { "en": "Rangabali", "bn": "রাঙ্গাবালী" },
+          { "en": "Galachipa", "bn": "গলাচিপা" }
+        ]
+      },
+      {
+        "district": "Pirojpur",
+        "districtBn": "পিরোজপুর",
+        "upazilas": [
+          { "en": "Bhandaria", "bn": "ভান্ডারিয়া" },
+          { "en": "Kawkhali", "bn": "কাউখালী" },
+          { "en": "Mathbaria", "bn": "মঠবাড়ীয়া" },
+          { "en": "Nazirpur", "bn": "নাজিরপুর" },
+          { "en": "Pirojpur Sadar", "bn": "পিরোজপুর সদর" },
+          { "en": "Nesarabad", "bn": "নেছারাবাদ" },
+          { "en": "Zianagar", "bn": "জিয়ানগর" }
+        ]
+      }
+    ]
+  }
+]

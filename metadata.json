@@ -1,0 +1,7 @@
+{
+  "name": "BechoKino.com",
+  "description": "BechoKino.com - বাংলাদেশের সবচেয়ে নির্ভরযোগ্য অনলাইন প্ল্যাটফর্ম, যেখানে আপনি খুব সহজেই নতুন এবং ব্যবহৃত (Second-hand) পণ্য ক্রয়-বিক্রয় করতে পারবেন। মোবাইল, ইলেকট্রনিক্স, বাইক থেকে শুরু করে প্রপার্টি—সবকিছুই কিনুন বা বিক্রি করুন একদম ফ্রি-তে। আজই আপনার বিজ্ঞাপন দিন!",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
